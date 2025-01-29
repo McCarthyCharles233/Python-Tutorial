@@ -1,3 +1,6 @@
+# Write a program to check if a given number is a prime number. A prime number is a number greater than 1 that has no
+# divisors other than 1 and itself.
+
 n = int(input("Type in a number: "))
 
 if n <= 1:

@@ -1,3 +1,5 @@
+# Write a program to count the number of words in a given sentence. Assume words are separated by spaces
+
 sentence = input("Input a sentence: ")
 words = sentence.split()
 word_count = 0
